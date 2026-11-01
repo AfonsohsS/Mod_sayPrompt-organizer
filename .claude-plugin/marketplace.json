@@ -1,0 +1,5 @@
+{
+  "name": "mod-sayprompt-organizer",
+  "owner": { "name": "AfonsohsS" },
+  "plugins": [{ "name": "sayPrompt-organizer", "source": "./" }]
+}
